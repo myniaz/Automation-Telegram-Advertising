@@ -4,7 +4,7 @@
 
 ثبت نام و سفارش آگهی : @myniazbot
 
-The first Automation Iranian Advertising channel in the Telegram ( http://telegram.org/ )
+The first Automation Advertising channel in the Telegram ( http://telegram.org/ ) for iranian
 Ads are maked by users with @myniazbot ( https://telegram.me/myniazbot ) Bot agent then published at @myniaz ( https://telegram.me/myniaz ) channel
 
 we detailed rules of contents 
